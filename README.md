@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![title](./img/title.png)
+![title](./assets/title.png)
 
 Handwriting digits recognizing is a good getting-started competition for the beginner of CNN.<br>
 However, many competitors get 100% accuracy in this competition, which is impossible for many situations in the reality.<br>
@@ -17,7 +17,7 @@ This repo is going to make that with **KNN** algorithm(**let k = 1**).
 
 The result is shown below:
 
-![result](./img/result.png)
+![result](./assets/result.png)
 
 
 
